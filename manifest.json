@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "MCQ Generator with Google Generative AI",
+    "name": "Barry run",
     "version": "1.0",
-    "description": "An extension to generate MCQ answers using Google Generative AI.",
+    "description": "helps people",
     "permissions": [
       "activeTab",
       "scripting",
